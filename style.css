@@ -1,0 +1,20 @@
+body{
+    background-color:aqua;
+    text-align: center;
+}
+h1{
+    color: crimson;
+    text-decoration: underline;
+}
+#para1{
+    color: blue;
+    font-size: 20px;
+}
+.class1{
+    color: darkorchid;
+    font-size: 20px;
+}
+.class2 {
+    color: coral;
+    font-size: 20px;
+}
